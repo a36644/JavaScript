@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$n9P8UjAqY2QDKxpCLoRNgOBbuCfiR0fdryaAp7zfxL1yDIXo6VT1e",
+      "username": "admin",
+      "role": "1",
+      "id": "6"
+    },
+    {
+      "email": "hungtv290501@gmail.com",
+      "password": "$2a$10$WN3/UefcLAzHX7Jr38kBT..hZAMb.DK0Z9tdRsjE.VsmxGG9y5jJe",
+      "username": "hùng",
+      "role": "0",
+      "id": "8"
+    }
+  ],
+  "products": [
+    {
+      "id": "5EhVfYy",
+      "name": "iphone 13 mini 128GB",
+      "img": "http://res.cloudinary.com/hungtv/image/upload/v1645251924/txf9zb9ll6fjzd4dtrxb.jpg",
+      "price": "22000000",
+      "productCateId": "r2jAbe1",
+      "hot": "1"
+    },
+    {
+      "id": "4gV7Bh0",
+      "name": "iphone 13 128GB",
+      "img": "http://res.cloudinary.com/hungtv/image/upload/v1645113874/mqcnubhw2knkdg5qje10.jpg",
+      "price": "22500000",
+      "productCateId": "r2jAbe1",
+      "hot": "1"
+    },
+    {
+      "id": "YTdxWJD",
+      "name": "iPhone 13 Pro Max 128GB",
+      "img": "http://res.cloudinary.com/hungtv/image/upload/v1645113930/rfpkqtufejrzyuzwniwu.jpg",
+      "price": "30900000",
+      "productCateId": "r2jAbe1",
+      "hot": "1"
+    },
+    {
+      "id": "cYXpTU2",
+      "name": "MacBook Pro 16 inch 2021 M1 Pro",
+      "img": "http://res.cloudinary.com/hungtv/image/upload/v1645348531/iiq0yireptxnszgl0vnd.jpg",
+      "price": "65000000",
+      "productCateId": "16",
+      "hot": "0"
+    },
+    {
+      "id": "LAAA7EW",
+      "name": "MacBook Pro 14 inch 2021 M1 Pro",
+      "img": "http://res.cloudinary.com/hungtv/image/upload/v1645348625/nbopyrsqlbfmgww5cb6g.jpg",
+      "price": "64000000",
+      "productCateId": "16",
+      "hot": "0"
+    },
+    {
+      "name": "Tai nghe HyperX Cloud Alpha S",
+      "img": "http://res.cloudinary.com/hungtv/image/upload/v1645352076/veafqyfeh8etxj6enrnd.jpg",
+      "price": "2500000",
+      "productCateId": "BceiQ5B",
+      "hot": "0",
+      "id": "zmDxnGS"
+    }
+  ],
+  "productCates": [
+    {
+      "cateName": "XOR",
+      "cateType": "phone",
+      "id": "2"
+    },
+    {
+      "cateName": "Samsung",
+      "cateType": "phone",
+      "id": "3"
+    },
+    {
+      "cateName": "Xiaomi",
+      "cateType": "phone",
+      "id": "4"
+    },
+    {
+      "cateName": "realme",
+      "cateType": "phone",
+      "id": "5"
+    },
+    {
+      "cateName": "Philips",
+      "cateType": "phone",
+      "id": "6"
+    },
+    {
+      "cateName": "Vivo",
+      "cateType": "phone",
+      "id": "7"
+    },
+    {
+      "cateName": "Itel",
+      "cateType": "phone",
+      "id": "8"
+    },
+    {
+      "cateName": "Masstel",
+      "cateType": "phone",
+      "id": "9"
+    },
+    {
+      "cateName": "BPhone",
+      "cateType": "phone",
+      "id": "10"
+    },
+    {
+      "cateName": "TECNO",
+      "cateType": "phone",
+      "id": "11"
+    },
+    {
+      "cateName": "Energizer",
+      "cateType": "phone",
+      "id": "12"
+    },
+    {
+      "cateName": "OPPO",
+      "cateType": "phone",
+      "id": "13"
+    },
+    {
+      "cateName": "Blackberry",
+      "cateType": "phone",
+      "id": "14"
+    },
+    {
+      "cateName": "Nokia",
+      "cateType": "phone",
+      "id": "15"
+    },
+    {
+      "cateName": "MacBook",
+      "cateType": "laptop",
+      "id": "16"
+    },
+    {
+      "cateName": "Dell",
+      "cateType": "laptop",
+      "id": "17"
+    },
+    {
+      "cateName": "iMac 2021",
+      "cateType": "laptop",
+      "id": "18"
+    },
+    {
+      "cateName": "Microsoft",
+      "cateType": "laptop",
+      "id": "19"
+    },
+    {
+      "cateName": "Lenovo",
+      "cateType": "laptop",
+      "id": "20"
+    },
+    {
+      "cateName": "MSI",
+      "cateType": "laptop",
+      "id": "21"
+    },
+    {
+      "cateName": "ASUS",
+      "cateType": "laptop",
+      "id": "22"
+    },
+    {
+      "cateName": "GIGABYTE",
+      "cateType": "laptop",
+      "id": "23"
+    },
+    {
+      "cateName": "HP",
+      "cateType": "laptop",
+      "id": "24"
+    },
+    {
+      "cateName": "phụ kiện apple",
+      "cateType": "accessory",
+      "id": "w4udOIP"
+    },
+    {
+      "cateName": "miếng dán màn hình",
+      "cateType": "accessory",
+      "id": "oEAK7eJ"
+    },
+    {
+      "cateName": "củ sạc, dây cáp",
+      "cateType": "accessory",
+      "id": "dxm5oiI"
+    },
+    {
+      "cateName": "phụ kiện học sinh",
+      "cateType": "accessory",
+      "id": "w9JVV4G"
+    },
+    {
+      "cateName": "phụ kiện máy tính",
+      "cateType": "accessory",
+      "id": "ysJZJyq"
+    },
+    {
+      "cateName": "tai nghe",
+      "cateType": "accessory",
+      "id": "BceiQ5B"
+    },
+    {
+      "cateName": "Loa",
+      "cateType": "sound",
+      "id": "RL7TcUE"
+    },
+    {
+      "cateName": "Khuyến mại cuối tuần",
+      "cateType": "sale",
+      "id": "QqbWsl8"
+    },
+    {
+      "cateName": "Khuyến mại Laptop",
+      "cateType": "sale",
+      "id": "qzAzxXv"
+    },
+    {
+      "cateName": "Tai nghe",
+      "cateType": "sound",
+      "id": "aS2Mzmn"
+    },
+    {
+      "cateName": "Khuyến mại dành cho học sinh, sinh viên",
+      "cateType": "sale",
+      "id": "oP6DDmp"
+    },
+    {
+      "cateName": "iphone",
+      "cateType": "phone",
+      "id": "r2jAbe1"
+    }
+  ]
+}
